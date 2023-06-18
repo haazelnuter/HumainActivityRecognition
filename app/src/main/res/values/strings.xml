@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oumaima_AIT_BAHA_PROJET</string>
+    <string-array name="gender_options">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+    <string name="distance_label">Distance: %s km</string>
+</resources>

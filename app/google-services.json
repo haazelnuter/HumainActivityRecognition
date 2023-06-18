@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668163316068",
+    "firebase_url": "https://projet-humain-activity-default-rtdb.firebaseio.com",
+    "project_id": "projet-humain-activity",
+    "storage_bucket": "projet-humain-activity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668163316068:android:b0bde4043235c983d74271",
+        "android_client_info": {
+          "package_name": "com.example.humainactivityrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668163316068-dr9p1jbdkhuqiqkt116d9e7vg8ovi0jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQT3sN0jFtZ6JxhKeUnM9YWgREK4ZYd2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668163316068-dr9p1jbdkhuqiqkt116d9e7vg8ovi0jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
