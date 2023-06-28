@@ -3,15 +3,18 @@ s'agit d'une application mobile Android, pour détecter les activités en utilis
 ***************************************************************************************************************
 0/Logo 
 ***************************************************************************************************************
-![icon](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/21476740-60eb-4982-8f20-ae3250afc18a)
+![icon](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/a7e5468d-b049-4abc-80d1-e69c91ac216f)
+
 ***************************************************************************************************************
 1/ Welcome page 
 ***************************************************************************************************************
-![welcome](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/915648a4-e13b-4934-a10e-7bc6472cbf86)
+![welcome](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/5d038127-ac69-4214-b1e0-46f23e1a00da)
+
 ***************************************************************************************************************
 2/Register
 ***************************************************************************************************************
-![register](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/20fa3642-46b6-4db7-8fa0-2cdb755b156d)
+![register](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/8816238d-bd36-4209-b7f9-053b0d6087af)
+
 ***************************************************************************************************************
 3/Login
 ***************************************************************************************************************
