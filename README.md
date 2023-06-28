@@ -7,43 +7,36 @@
 ![welcome](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/5d038127-ac69-4214-b1e0-46f23e1a00da)
 
 ## 2/Register
-
 ![register](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/8816238d-bd36-4209-b7f9-053b0d6087af)
 ## 3/Login
-![login](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/3ad31857-46cc-4ca1-832c-22ff348e6a65)
+![login](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/251b1a7d-81ce-4b5b-9eb5-201657c8349a)
+
 ## 4/Home 
-walking
-***************************************************************************************************************
-![walking](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/19790b57-9fa4-4e3b-9547-b64eccb9db19)
-running 
-***************************************************************************************************************
-![running](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/c2716425-0a7b-4a97-b5d3-3b42c92fe456)
-sitting 
-***************************************************************************************************************
-![sitting](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/0c4d9ba9-9de0-4bd6-a223-5ef4dc9b0f3e)
-standing
-***************************************************************************************************************
-![standing](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/685ad4e6-ca5b-4174-8271-805c3bcbbeba)
-***************************************************************************************************************
-5/Profile 
-***************************************************************************************************************
-![profil](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/804f11c8-d308-477a-8c2c-550ea2debd85)
-***************************************************************************************************************
-6/Edite Profile 
-***************************************************************************************************************
-![editeProfil](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/2201deef-fbcb-4832-8780-80f2e5693f8c)
-***************************************************************************************************************
-7/Historical 
-***************************************************************************************************************
-![historical](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/a5253efd-7188-4c24-96d2-b58fdbc25570)
-***************************************************************************************************************
-8/Notification
-***************************************************************************************************************
-![notif](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/cd97c0e0-e85f-41e2-b001-1769ccc0b59c)
-***************************************************************************************************************
-Video Simulation : 
-***************************************************************************************************************
-https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/c8820b46-5851-49a8-b5fa-f5ca05d76b68
+# walking
+![walking](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/17f16742-6db0-4bcc-883b-d2143c24f935)
+
+# running 
+![running](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/86be3aca-d7c7-42eb-82ca-78c5885bc740)
+
+# sitting 
+![sitting](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/03e86297-0d78-42be-baf7-6f18261dc741)
+# standing 
+![standing](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/f148c007-f7e0-49f5-b110-5bbf0375c8ec)
+
+## 5/Profile 
+![profil](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/aaa2d58b-754e-48b5-aff2-c2bef5f6b2c5)
+
+## 6/Edite Profile 
+![editeProfil](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/fa5fddd6-a523-45fd-92ce-c36765ad83fb)
+
+## 7/Historical 
+![historical](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/ce36ac8b-2902-4156-bfb4-6f24735c347a)
+
+## 8/Notification
+![notif](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/590347b9-0781-43c6-ac07-d7a3eb1f8e72)
+
+## Video Simulation : 
+https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/5504abdc-b1b2-4bb0-aad9-5df19934303a
 
 
 
