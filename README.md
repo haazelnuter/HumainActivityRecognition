@@ -1,27 +1,17 @@
 # HumainActivityRecognition
-s'agit d'une application mobile Android, pour détecter les activités en utilisant Firebase, ainsi que SQLite 
-***************************************************************************************************************
-0/Logo 
-***************************************************************************************************************
+## s'agit d'une application mobile Android, pour détecter les activités en utilisant Firebase, ainsi que SQLite 
+## 0/Logo 
 ![icon](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/a7e5468d-b049-4abc-80d1-e69c91ac216f)
 
-***************************************************************************************************************
-1/ Welcome page 
-***************************************************************************************************************
+## 1/ Welcome page 
 ![welcome](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/5d038127-ac69-4214-b1e0-46f23e1a00da)
 
-***************************************************************************************************************
-2/Register
-***************************************************************************************************************
-![register](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/8816238d-bd36-4209-b7f9-053b0d6087af)
+## 2/Register
 
-***************************************************************************************************************
-3/Login
-***************************************************************************************************************
+![register](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/8816238d-bd36-4209-b7f9-053b0d6087af)
+## 3/Login
 ![login](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/3ad31857-46cc-4ca1-832c-22ff348e6a65)
-***************************************************************************************************************
-4/Home 
-***************************************************************************************************************
+## 4/Home 
 walking
 ***************************************************************************************************************
 ![walking](https://github.com/haazelnuter/HumainActivityRecognition/assets/96618018/19790b57-9fa4-4e3b-9547-b64eccb9db19)
